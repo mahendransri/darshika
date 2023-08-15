@@ -6,4 +6,9 @@ public class class1 {
 		System.out.println("how are you");
 	}
 
+	private void anitha() {
+		System.out.println("chennai");
+	}
+
 }
+
