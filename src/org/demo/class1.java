@@ -14,6 +14,12 @@ public class class1 {
 		System.out.println("chennai");
 
 	}
+	public static void main(String[] args) {
+		class1 u = new class1();
+		u.anitha();
+		u.friend();
+		u.mano();
+	}
 
 }
 
